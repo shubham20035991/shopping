@@ -33,5 +33,6 @@ Steps to run Admin page
 Open integrated Terminal
 Enter the command
 npm run dev
+/
 
 
